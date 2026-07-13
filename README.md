@@ -1,3 +1,3 @@
 # blockGame
 
-A new Flutter project.
+It's an clone of Tetris made with Flutter/ Dart
